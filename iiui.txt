@@ -1,1 +1,15 @@
-test
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+class CBlocks : public CObject
+{
+	bool bLive;
+	
+	public CBlocks()
+	{
+		bLive = false;
+	}
+};
+	
