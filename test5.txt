@@ -1,1 +1,17 @@
-test
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+class CObject
+{
+	int m_x;
+	int m_y;
+	
+	public CObject()
+	{
+		m_x = 0;
+		m_y = 0;
+	}
+};
+	
