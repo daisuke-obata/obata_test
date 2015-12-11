@@ -11,5 +11,12 @@ class CBlocks : public CObject
 	{
 		bLive = false;
 	}
+	
+	public init()
+	{
+		this.m_x = 100;
+		this.m_y = 200;
+		this.bLive = true;
+	}
 };
 	
