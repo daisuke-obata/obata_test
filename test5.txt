@@ -1,1 +1,11 @@
-test
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+class CObject
+{
+	int m_x;
+	int m_y;
+};
+	
