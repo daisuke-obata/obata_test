@@ -1,1 +1,13 @@
 test
+
+
+class CTest
+{
+	int m_nNum;
+	
+	public CTest()
+	{
+		m_nNum = 100;
+	}
+	
+};
